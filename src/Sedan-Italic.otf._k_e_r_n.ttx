@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="N" r="o" v="-30"/>
+      <pair l="P" r="u" v="-30"/>
+      <pair l="T" r="a" v="-99"/>
+      <pair l="U" r="l" v="-20"/>
+      <pair l="V" r="e" v="-49"/>
+      <pair l="s" r="f" v="-42"/>
+      <pair l="s" r="germandbls" v="-43"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
