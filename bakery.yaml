@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Sedan-Italic.ttf.ttx, Sedan-Regular.ttf.ttx, src/Sedan-Regular.otf.ttx,
+  src/Sedan-Italic.otf.ttx, src/Sedan-Italic-TTF.sfd, src/Sedan-Regular-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
